@@ -1,3 +1,5 @@
+import java.util.*;
+
 Class HelloWorld{
 
   public static void main(String arg[]){
